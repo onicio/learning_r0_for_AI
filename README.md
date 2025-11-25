@@ -1,4 +1,4 @@
-# Learning R0 for AI
+# Learning R₀ for AI
 prototype for a Learning R0 dashboard
 
 Learning R₀ for AI: Network‑driven strategies to advance women upskilling in health workplaces
