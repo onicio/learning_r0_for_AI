@@ -3,7 +3,7 @@ prototype for a Learning R0 dashboard
 
 Learning R₀ for AI: Network‑driven strategies to advance women upskilling in health workplaces
 
-This repository contains a browser‑based prototype of the Learning Epidemiology Platform, a visual sandbox for modeling how AI skills diffuse through health and public health workplaces—especially among women in tribal, rural, and county settings.  ￼
+This repository contains a browser‑based prototype of the Learning Epidemiology Platform, a visual sandbox for modeling how AI skills diffuse through health and public health workplaces—especially among women in tribal, rural, and county settings.
 
 The prototype treats AI upskilling like an epidemic: each worker is a node in a collaboration network, and “learning AI” spreads through that network according to SEIR‑style dynamics and equity‑sensitive rules.
 
